@@ -1,0 +1,42 @@
+#preloader{
+  background: #000 ;
+}
+
+/*Navbar*/
+.navbar {
+    width:80%;
+    background-color: #93c608;
+    overflow: auto;
+    padding-left: 20%;
+    display: flex;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float:left;
+    text-align: center;
+    padding: 13px;
+    padding-inline: 30px;
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #04AA6D;
+  }
+  /*Navbar*/
+
+  /*intro video*/
+.vid{
+  display:flex;
+  width:100%;
+}
+/*intro video*/
+
